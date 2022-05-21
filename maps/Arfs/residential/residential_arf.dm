@@ -312,6 +312,9 @@ var/global/list/latejoin_residential = list()
 /area/residential/mroom13bath
 	name = "\improper Residential - Medium Room 13 Bathroom"
 
+/area/residential/mroom18
+	name = "\improper Residential - Medium Room 18"
+
 /area/residential/mroom42
 	name = "\improper Residential - Medium Room 42 Living Room"
 	icon = 'maps/Arfs/arfs_areas.dmi'
